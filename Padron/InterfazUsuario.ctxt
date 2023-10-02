@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=InterfazUsuario
-comment1.params=instruccion
-comment1.target=void\ ejecutar(java.lang.String[])
-comment2.params=padron
-comment2.target=void\ mostrarOficinaPadron(OficinaPadron)
-numComments=3
